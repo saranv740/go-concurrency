@@ -5,9 +5,9 @@
 ## 🛠️ Projects
 
 ### 🧩 Phase 1: Foundations of Concurrency
-- [ ] Race Condition Demo
-- [ ] Deadlock Simulator
-- [ ] Atomic Counter with `sync/atomic`
+- [x] Race Condition Demo
+- [x] Deadlock Simulator
+- [x] Memory visiblity bug
 
 ### 🧠 Phase 2: CSP Mental Model
 - [ ] Concurrent Prime Number Generator
@@ -36,5 +36,3 @@
 - [ ] Work Stealing Simulator
 - [ ] Benchmark: GOMAXPROCS vs Default
 
-## 📝 Observations:
-- 
