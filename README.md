@@ -7,32 +7,31 @@
 ### 🧩 Phase 1: Foundations of Concurrency
 - [x] Race Condition Demo
 - [x] Deadlock Simulator
-- [x] Memory visiblity bug
+- [x] Memory Visibility Bug
 
-### 🧠 Phase 2: CSP Mental Model
-- [ ] Concurrent Prime Number Generator
+### 🔧 Phase 2: Core Concurrency Tools
+- [x] Concurrent Prime Number Generator
 - [ ] Producer-Consumer with Channels
-
-### 🔧 Phase 3: Core Concurrency Tools
 - [ ] Web Crawler (Channels + Goroutines)
 - [ ] File Hashing with Worker Pool
 - [ ] Safe Cache with Mutex
 - [ ] Parallel Matrix Sum
 
-### 📦 Phase 4: Concurrency Patterns & Pipelines
+### 📦 Phase 3: Concurrency Patterns & Pipelines
 - [ ] CSV → JSON ETL Pipeline
 - [ ] Image Transformer with Fan-Out Worker Pool
 - [ ] File Scanner with Context Cancellation
 - [ ] Custom `or-done` and `bridge` Implementations
+- [ ] Goroutine Leak Detector
 
-### ⚙️ Phase 5: Scale and Production Patterns
+### ⚙️ Phase 4: Scale and Production Patterns
 - [ ] Heartbeat-aware Web Scraper
 - [ ] Job Runner with Timeout & Retry
 - [ ] Rate Limiter Middleware
 - [ ] Replicated Requests Handler
+- [ ] Healing Goroutine Supervisor
 
-### 🧪 Phase 6: Go Runtime & Scheduling
+### 🧪 Phase 5: Go Runtime & Scheduling
 - [ ] Goroutine Profiler Tool
 - [ ] Work Stealing Simulator
 - [ ] Benchmark: GOMAXPROCS vs Default
-
