@@ -11,7 +11,7 @@
 
 ### 🔧 Phase 2: Core Concurrency Tools
 - [x] Concurrent Prime Number Generator
-- [ ] Producer-Consumer with Channels
+- [x] Producer-Consumer with Channels
 - [ ] Web Crawler (Channels + Goroutines)
 - [ ] File Hashing with Worker Pool
 - [ ] Safe Cache with Mutex
